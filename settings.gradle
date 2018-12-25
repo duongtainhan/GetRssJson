@@ -1,0 +1,1 @@
+include ':app', ':get_rss_json'
